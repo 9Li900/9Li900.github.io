@@ -1,0 +1,22 @@
+html {
+    background-color: bisque;
+}
+
+body, h1, h2, h3 {
+    color: brown;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-size: 4vw;
+}
+
+h2, h3 {
+    font-size: 3vw;
+}
+
+body {
+    font-size: 2vw;
+    font-weight: bold;
+}
